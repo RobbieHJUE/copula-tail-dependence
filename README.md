@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-WIP-orange)
 # Tail Dependence and Joint Extreme Events in Financial Markets: A Copula-Based Analysis
 
 A rigorous empirical study of tail dependence structures in multi-asset portfolios
