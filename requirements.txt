@@ -1,0 +1,18 @@
+# Core
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.7
+seaborn>=0.12
+
+# Data
+yfinance>=0.2.30
+
+# Econometrics & Copulas
+arch>=6.2
+statsmodels>=0.14
+copulas>=0.10
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.25
