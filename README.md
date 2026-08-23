@@ -8,14 +8,14 @@ using copula methods, with emphasis on the limitations of the Gaussian copula an
 the implications of model choice for portfolio risk management.
 
 **Author**: Robbie | Duke University, M.S. in Statistical Science
-**Course**: [Course name/number]
+**Course**: Fintech 545
 **Status**: In progress
 
 ---
 
 ## Motivation
 
-The Gaussian copula — once called *"the formula that killed Wall Street"* for its
+The Gaussian copula, once called *"the formula that killed Wall Street"* for its
 role in the 2008 financial crisis — implies **zero asymptotic tail dependence**,
 meaning it structurally cannot capture the phenomenon that asset returns tend to
 crash together. This project quantifies the cost of this assumption and compares
@@ -69,9 +69,6 @@ python scripts/download_data.py
 python scripts/run_full_pipeline.py
 ```
 
-## Key Findings
-
-*[To be populated as results come in]*
 
 ## References
 
